@@ -1,11 +1,10 @@
 # Zafer Balkan
 
-**// TODO**
+[![Zafer's GitHub stats](https://github-readme-stats.vercel.app/api?username=zbalkan&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-The two basic principles of Windows system administration:
 
-1. For minor problems, reboot
-2. For major problems, reinstall
+**// TODO: Remove TODOs in the project(s)**
+
 
 **My gists**
 https://gist.github.com/zbalkan
