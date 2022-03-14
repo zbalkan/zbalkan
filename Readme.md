@@ -1,6 +1,6 @@
 # Hi, it's Zafer Balkan
 
-I am a freelance developer with years of sysadmin experience. Sadly I left many works where I've worked due to legal ownership, so that you can see only a subset of my works here.
+I am a cybersecurity guy with developer and sysadmin background. Sadly, I left many works where I've worked due to legal ownership, so that you can see only a subset of my works here.
 
 I am currently studying Cybersecurity in Tallinn University of Technology.
 
