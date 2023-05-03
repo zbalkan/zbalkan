@@ -1,6 +1,9 @@
 # Hi, it's Zafer Balkan
 
+Hi, it's Zafer /zɑ·fɛɾˈ/.
+
 I am a cybersecurity guy with developer and sysadmin background.
+
 ### My gists
 
 https://gist.github.com/zbalkan
