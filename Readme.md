@@ -1,6 +1,6 @@
 # Hi, it's Zafer Balkan
 
-Hi, it's Zafer /zɑ·fɛɾˈ/.
+Hi, it's Zafer [/zɑ·fɛɾˈ/](http://ipa-reader.xyz/?text=z%C9%91%C2%B7f%C9%9B%C9%BE%E2%80%99&voice=Filiz).
 
 I am a cybersecurity guy with developer and sysadmin background.
 
