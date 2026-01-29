@@ -10,3 +10,7 @@ https://gist.github.com/zbalkan
 
 ## //TODO
 Finish TODOs in the project(s)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=zbalkan&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=zbalkan&theme=dracula)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zbalkan&layout=compact&theme=dracula)
