@@ -4,6 +4,9 @@ Hi, it's Zafer [/zɑ·fɛɾˈ/](http://ipa-reader.xyz/?text=z%C9%91%C2%B7f%C9%9B
 
 I am a cybersecurity professional with developer and sysadmin background, occasionally FOSS contributor.
 
+[![committers.top badge](https://user-badge.committers.top/estonia_public/zbalkan.svg)](https://user-badge.committers.top/estonia_public/zbalkan)
+
+ 
 ## My gists
 
 https://gist.github.com/zbalkan
